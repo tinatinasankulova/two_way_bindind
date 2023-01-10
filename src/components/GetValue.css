@@ -1,0 +1,23 @@
+.form {
+  width: 300px;
+  height: 200px;
+  background: rgb(165, 229, 227);
+  border: 1px solid black;
+  text-align: center;
+  margin: 30px auto;
+}
+
+.form input {
+  margin: 18px;
+}
+
+.form select {
+  margin: 10px;
+}
+.form textarea {
+  margin: 10px;
+}
+
+.form button {
+  margin: 10px;
+}
